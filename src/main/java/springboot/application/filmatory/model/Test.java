@@ -6,12 +6,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
-public class Test {
-    @Id
-    @GeneratedValue(strategy= GenerationType.AUTO)
-    private Integer id;
+public class Test extends AbstractEntity{
 
-    public Integer getId() {
-        return id;
-    }
 }
