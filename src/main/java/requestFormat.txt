@@ -1,0 +1,21 @@
+"/movies"
+{
+	"name":"sda",
+	"description":"sda",
+	"imagePath":"sda",
+	"runtime": 151
+}
+
+"/reviews"
+{
+	"comment":"sda",
+	"rating":"sda",
+	"imagePath":"sda",
+	"runtime": 151
+}
+
+"/users"
+{
+	"email":"someone@someone.someone",
+	"password": "someone"
+}
